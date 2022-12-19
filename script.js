@@ -1,9 +1,9 @@
 class OneClass {
   constructor() {
-    this.criticalError();
+    this.fixCriticalError();
   }
 
-  criticalError() {
-    new Error("Error");
+  fixCriticalError() {
+    console.log("fix critical error");
   }
 }

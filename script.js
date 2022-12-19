@@ -13,3 +13,6 @@ const objArr = [
   { id: 1, title: "Book Mr.Supper"}
 ];
 
+objArr.forEach(item => {
+  
+});

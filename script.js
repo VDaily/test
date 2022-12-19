@@ -7,3 +7,8 @@ class OneClass {
     console.log("fix critical error");
   }
 }
+
+const objArr = [
+  { id: 0, title: "Book1"}
+  { id: 1, title: "Book Mr.Supper"}
+];

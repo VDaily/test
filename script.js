@@ -14,5 +14,5 @@ const objArr = [
 ];
 
 objArr.forEach(item => {
-  
+  console.log(item);
 });

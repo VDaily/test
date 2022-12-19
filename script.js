@@ -20,3 +20,6 @@ const objArr = [
   { id: 1, title: "Book Mr.Supper"}
 ];
 
+for(let i = 0; i < objArr.length; i++) {
+  console.log(objArr[i]);
+}
